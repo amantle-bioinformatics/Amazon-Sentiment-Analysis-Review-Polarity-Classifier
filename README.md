@@ -1,7 +1,3 @@
-This README is designed to give your **Amazon Review Polarity** project a professional look on GitHub. It highlights your technical stack and clearly explains the machine learning workflow you've built.
-
----
-
 # Amazon Sentiment Analysis: Review Polarity Classifier
 
 ## 📌 Project Overview
@@ -54,7 +50,3 @@ The project utilizes the **Amazon Review Polarity Dataset**.
 1. Clone the repository.
 2. Ensure your Amazon dataset is uploaded to your Google Drive.
 3. Run the notebook cells to extract data and train the model.
-
-
-
-Would you like me to add a specific section for **Model Evaluation** results once you have your final accuracy scores?
