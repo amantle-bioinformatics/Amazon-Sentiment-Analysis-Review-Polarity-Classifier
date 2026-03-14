@@ -23,6 +23,19 @@ The project utilizes the **Amazon Review Polarity Dataset**.
 * **Features:** Review Title, Review Content
 * **Scale:** High-volume text data used to train robust classification models.
 
+Dataset & Data Access
+Due to GitHub's file size limitations, the full Amazon Review Polarity Dataset (which contains millions of reviews) is not included in this repository.
+
+1. The Full Dataset
+If you wish to train the model on the complete dataset, you can download it from the original source:
+
+Source: Amazon Reviews for Sentiment Analysis (Kaggle)
+
+File Name: amazon_review_polarity_csv.tgz
+
+2. The Sample Dataset
+For quick testing and to see the code in action, I have provided a smaller file named amazon_reviews_sample.csv within this repository. This sample contains 10,000 random entries and is used by default in the provided notebook.
+
 ## 🚀 Workflow
 
 1. **Data Extraction:** Programmatically unzipping and extracting `.tgz` files within the Colab environment.
